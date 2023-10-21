@@ -7,7 +7,7 @@ import "google/type/date.proto";
 
 option java_multiple_files = true;
 option java_package = "com.monghit.apis.grpc.streaming";
-option java_outer_classname = "StorProviderProto";
+option java_outer_classname = "StoreProviderProto";
 option objc_class_prefix = "RTG";
 
 service StoreProvider {
